@@ -1,4 +1,4 @@
-package androidapplication.com.todoplusflogin;
+package androidapplication.com.todoplusflogin.activity;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -6,6 +6,9 @@ import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
+
+import androidapplication.com.todoplusflogin.util.AppConstant;
+import androidapplication.com.todoplusflogin.R;
 
 /**
  * Created by Anand on 23-09-2016.

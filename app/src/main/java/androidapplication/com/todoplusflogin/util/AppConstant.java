@@ -1,4 +1,4 @@
-package androidapplication.com.todoplusflogin;
+package androidapplication.com.todoplusflogin.util;
 
 /**
  * Created by Anand on 23-09-2016.

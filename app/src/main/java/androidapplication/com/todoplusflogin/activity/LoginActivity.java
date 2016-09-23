@@ -1,4 +1,4 @@
-package androidapplication.com.todoplusflogin;
+package androidapplication.com.todoplusflogin.activity;
 
 
 import android.content.Intent;
@@ -17,6 +17,9 @@ import com.facebook.login.LoginResult;
 import com.facebook.login.widget.LoginButton;
 
 import java.util.Arrays;
+
+import androidapplication.com.todoplusflogin.util.AppConstant;
+import androidapplication.com.todoplusflogin.R;
 
 
 public class LoginActivity extends AppCompatActivity {
